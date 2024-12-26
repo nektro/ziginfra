@@ -1,0 +1,65 @@
+MIT:
+= https://spdx.org/licenses/MIT
+- This
+- git https://github.com/nektro/arqv-ini
+- git https://github.com/nektro/gimme
+- git https://github.com/nektro/iguanaTLS
+- git https://github.com/nektro/zfetch
+- git https://github.com/nektro/zig-UrlValues
+- git https://github.com/nektro/zig-ansi
+- git https://github.com/nektro/zig-bencode
+- git https://github.com/nektro/zig-color
+- git https://github.com/nektro/zig-detect-license
+- git https://github.com/nektro/zig-docker
+- git https://github.com/nektro/zig-extras
+- git https://github.com/nektro/zig-flag
+- git https://github.com/nektro/zig-git
+- git https://github.com/nektro/zig-iana-tlds
+- git https://github.com/nektro/zig-icu
+- git https://github.com/nektro/zig-inquirer
+- git https://github.com/nektro/zig-json
+- git https://github.com/nektro/zig-leven
+- git https://github.com/nektro/zig-licenses
+- git https://github.com/nektro/zig-licenses-text
+- git https://github.com/nektro/zig-mime
+- git https://github.com/nektro/zig-oauth2
+- git https://github.com/nektro/zig-signal
+- git https://github.com/nektro/zig-time
+- git https://github.com/nektro/zig-tokenize
+- git https://github.com/nektro/zig-tracer
+- git https://github.com/nektro/zig-ulid
+- git https://github.com/nektro/zig-unicode-uca
+- git https://github.com/nektro/zig-unicode-ucd
+- git https://github.com/nektro/zig-yaml
+- git https://github.com/nektro/ziglint
+- git https://github.com/nektro/zigmod
+- git https://github.com/truemedian/hzzp
+- git https://github.com/vrischmann/zig-sqlite
+- git https://github.com/ziglibs/known-folders
+- git https://github.com/yaml/libyaml
+- git https://github.com/zigimg/zigimg
+
+AGPL-3.0:
+= https://spdx.org/licenses/AGPL-3.0
+- git https://git.sr.ht/~nektro/wifilylinux
+- git https://github.com/nektro/zig-zorm
+
+MPL-2.0:
+= https://spdx.org/licenses/MPL-2.0
+- git https://github.com/nektro/zig-intrusive-parser
+- git https://github.com/nektro/zig-js
+- git https://github.com/nektro/zig-pek
+- git https://github.com/nektro/zig-webidl
+- git https://github.com/nektro/zig-xml
+
+0BSD:
+= https://spdx.org/licenses/0BSD
+- git https://github.com/nektro/zig-iso-3166-countrys
+- git https://github.com/nektro/zig-iso-639-languages
+
+Unspecified:
+- system_lib GL
+- system_lib X11
+- system_lib c
+- git https://git.sr.ht/~nektro/magnolia-desktop
+- git https://github.com/kivikakk/htmlentities.zig
