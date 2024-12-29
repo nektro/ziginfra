@@ -1,0 +1,119 @@
+.{
+    .name = "ziginfra",
+    .version = "0.0.0",
+    .minimum_zig_version = "0.13.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "LICENSE",
+        "README.md",
+    },
+    .dependencies = .{
+        .@"arqv-ini" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/arqv-ini",
+        },
+        .gimme = .{
+            .path = ".zigmod/deps/git/github.com/nektro/gimme",
+        },
+        .@"zig-ansi" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-ansi",
+        },
+        .@"zig-bencode" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-bencode",
+        },
+        .@"zig-color" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-color",
+        },
+        .@"zig-detect-license" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-detect-license",
+        },
+        .@"zig-extras" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-extras",
+        },
+        .@"zig-flag" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-flag",
+        },
+        .@"zig-fmt-valueliteral" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-fmt-valueliteral",
+        },
+        .@"zig-git" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-git",
+        },
+        .@"zig-iana-tlds" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-iana-tlds",
+        },
+        .@"zig-icu" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-icu",
+        },
+        .@"zig-inquirer" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-inquirer",
+        },
+        .@"zig-intrusive-parser" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-intrusive-parser",
+        },
+        .@"zig-iso-3166-countrys" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-iso-3166-countrys",
+        },
+        .@"zig-iso-639-languages" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-iso-639-languages",
+        },
+        .@"zig-js" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-js",
+        },
+        .@"zig-json" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-json",
+        },
+        .@"zig-leven" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-leven",
+        },
+        .@"zig-licenses" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-licenses",
+        },
+        .@"zig-licenses-text" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-licenses-text",
+        },
+        .@"zig-mime" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-mime",
+        },
+        .@"zig-oauth2" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-oauth2",
+        },
+        .@"zig-pek" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-pek",
+        },
+        .@"zig-signal" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-signal",
+        },
+        .@"zig-time" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-time",
+        },
+        .@"zig-tracer" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-tracer",
+        },
+        .@"zig-ulid" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-ulid",
+        },
+        .@"zig-unicode-uca" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-uca",
+        },
+        .@"zig-unicode-ucd" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-ucd",
+        },
+        .@"zig-UrlValues" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-UrlValues",
+        },
+        .@"zig-webidl" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-webidl",
+        },
+        .@"zig-xml" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-xml",
+        },
+        .@"zig-yaml" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-yaml",
+        },
+        .@"zig-zorm" = .{
+            .path = ".zigmod/deps/git/github.com/nektro/zig-zorm",
+        },
+    },
+}
