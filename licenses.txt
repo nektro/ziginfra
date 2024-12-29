@@ -10,7 +10,6 @@ MIT:
 - git https://github.com/nektro/zig-bencode
 - git https://github.com/nektro/zig-color
 - git https://github.com/nektro/zig-detect-license
-- git https://github.com/nektro/zig-docker
 - git https://github.com/nektro/zig-extras
 - git https://github.com/nektro/zig-flag
 - git https://github.com/nektro/zig-git
@@ -25,7 +24,6 @@ MIT:
 - git https://github.com/nektro/zig-oauth2
 - git https://github.com/nektro/zig-signal
 - git https://github.com/nektro/zig-time
-- git https://github.com/nektro/zig-tokenize
 - git https://github.com/nektro/zig-tracer
 - git https://github.com/nektro/zig-ulid
 - git https://github.com/nektro/zig-unicode-uca
