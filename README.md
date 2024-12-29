@@ -2,6 +2,7 @@
 
 meta monorepo to run tasks across all my zig repositories at once
 
+> Note: this repo isn't really open for contribution, but it remains public as a resource for any who wish to view it.
 
 ### run zig
 
