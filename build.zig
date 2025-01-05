@@ -11,6 +11,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(&b.dependency("zig-bencode", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
     test_step.dependOn(&b.dependency("zig-color", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
     test_step.dependOn(&b.dependency("zig-detect-license", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
+    test_step.dependOn(&b.dependency("zig-expect", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
     test_step.dependOn(&b.dependency("zig-extras", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
     test_step.dependOn(&b.dependency("zig-flag", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);
     test_step.dependOn(&b.dependency("zig-fmt-valueliteral", .{ .target = target, .mode = mode }).builder.top_level_steps.get("test").?.step);

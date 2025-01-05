@@ -3,10 +3,6 @@ name: ziginfra
 license: MIT
 description: monorepo to run tasks across all my zig repositories at once
 root_dependencies:
-  - src: git https://github.com/nektro/zigmod
-  - src: git https://github.com/nektro/ziglint
-  - src: git https://git.sr.ht/~nektro/magnolia-desktop
-  - src: git https://git.sr.ht/~nektro/wifilylinux
   - src: git https://github.com/nektro/zig-licenses
   - src: git https://github.com/nektro/zig-licenses-text
   - src: git https://github.com/nektro/zig-mime
@@ -40,3 +36,4 @@ root_dependencies:
   - src: git https://github.com/nektro/zig-intrusive-parser
   - src: git https://github.com/nektro/zig-webidl
   - src: git https://github.com/nektro/zig-icu
+  - src: git https://github.com/nektro/zig-expect
