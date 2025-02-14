@@ -30,6 +30,7 @@ MIT:
 - git https://github.com/nektro/zig-unicode-ucd
 - git https://github.com/nektro/zig-yaml
 - git https://github.com/truemedian/hzzp
+- git https://github.com/kivikakk/htmlentities.zig
 - git https://github.com/vrischmann/zig-sqlite
 - git https://github.com/yaml/libyaml
 
@@ -52,4 +53,3 @@ AGPL-3.0:
 
 Unspecified:
 - system_lib c
-- git https://github.com/kivikakk/htmlentities.zig
