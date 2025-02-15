@@ -3,15 +3,18 @@ const std = @import("std");
 const O = struct {
     std.Build.ResolvedTarget,
     std.builtin.OptimizeMode,
+    bool,
 };
 
 pub fn build(b: *std.Build) void {
     const target = b.standardTargetOptions(.{});
     const mode = b.option(std.builtin.Mode, "mode", "") orelse .Debug;
+    const disable_llvm = b.option(bool, "disable_llvm", "use the non-llvm zig codegen") orelse false;
 
     const opts: O = .{
         target,
         mode,
+        disable_llvm,
     };
 
     const test_step = b.step("test", "Run unit tests");
@@ -57,6 +60,7 @@ fn dependOn(b: *std.Build, name: []const u8, opts: O) *std.Build.Step {
     const dependency = b.dependency(name, .{
         .target = opts[0],
         .mode = opts[1],
+        .disable_llvm = opts[2],
     });
     const step = &dependency.builder.top_level_steps.get("test").?.step;
     step.name = name;
