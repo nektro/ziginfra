@@ -11,6 +11,8 @@ pub fn build(b: *std.Build) void {
     const mode = b.option(std.builtin.Mode, "mode", "") orelse .Debug;
     const disable_llvm = b.option(bool, "disable_llvm", "use the non-llvm zig codegen") orelse false;
 
+    b.reference_trace = 128;
+
     const opts: O = .{
         target,
         mode,
