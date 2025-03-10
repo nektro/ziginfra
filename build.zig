@@ -37,7 +37,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-intrusive-parser", opts));
     test_step.dependOn(dependOn(b, "zig-iso-3166-countrys", opts));
     test_step.dependOn(dependOn(b, "zig-iso-639-languages", opts));
-    // test_step.dependOn(dependOn(b,"zig-js", opts)); // not passing 100%
+    test_step.dependOn(dependOn(b, "zig-js", opts));
     test_step.dependOn(dependOn(b, "zig-json", opts));
     test_step.dependOn(dependOn(b, "zig-leven", opts));
     test_step.dependOn(dependOn(b, "zig-licenses", opts));

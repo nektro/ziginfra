@@ -19,7 +19,7 @@ git https://github.com/nektro/zig-intrusive-parser commit-75a9745d9100b17a9443e6
 git https://github.com/nektro/zig-iso-3166-countrys commit-7ca7eb6b63d4894d3c8541fe97254d32a9e7eb02
 git https://github.com/nektro/zig-iso-639-languages commit-e9a43b546c42901b667455925e57853745cc2520
 git https://github.com/nektro/zig-json commit-03b5392e53513a0f90aa5c10219c7caee6383997
-git https://github.com/nektro/zig-js commit-2fd0ba146cb5590b62f7ade50c821b3eb58e0cdb
+git https://github.com/nektro/zig-js commit-2764af65a5846ab2e7e2f9979bab4bed9c5479c0
 git https://github.com/nektro/zig-leven commit-1c0e475b056ccc6a343187702ee4f3dc415e07cb
 git https://github.com/nektro/zig-licenses commit-d683ae4d499c2a1f7f8c9cdd7304cd5a3c766e76
 git https://github.com/nektro/zig-licenses-text commit-f1830fbbd78a31d54d8469a0243cb904e7295e10
