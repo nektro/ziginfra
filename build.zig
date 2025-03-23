@@ -56,6 +56,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-xml", opts));
     test_step.dependOn(dependOn(b, "zig-yaml", opts));
     test_step.dependOn(dependOn(b, "zig-zorm", opts));
+    test_step.dependOn(dependOn(b, "koino-fork", opts));
 }
 
 fn dependOn(b: *std.Build, name: []const u8, opts: O) *std.Build.Step {

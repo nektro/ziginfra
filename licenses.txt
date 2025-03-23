@@ -1,9 +1,11 @@
 MIT:
 = https://spdx.org/licenses/MIT
 - This
+- git https://github.com/kivikakk/libpcre.zig
 - git https://github.com/nektro/arqv-ini
 - git https://github.com/nektro/gimme
 - git https://github.com/nektro/iguanaTLS
+- git https://github.com/nektro/koino-fork
 - git https://github.com/nektro/zfetch
 - git https://github.com/nektro/zig-UrlValues
 - git https://github.com/nektro/zig-ansi
@@ -34,6 +36,10 @@ MIT:
 - git https://github.com/kivikakk/htmlentities.zig
 - git https://github.com/vrischmann/zig-sqlite
 - git https://github.com/yaml/libyaml
+
+BSD-3-Clause:
+= https://spdx.org/licenses/BSD-3-Clause
+- git https://github.com/nektro/pcre-8.45
 
 MPL-2.0:
 = https://spdx.org/licenses/MPL-2.0

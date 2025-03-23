@@ -1,7 +1,10 @@
 2
+git https://github.com/kivikakk/libpcre.zig commit-00b62bc8bea7da75ba61f56555ea6cbaf0dc4e26
 git https://github.com/nektro/arqv-ini commit-4c84770a8a2d10b9a9bb1157d69f49e8cd398e1a
 git https://github.com/nektro/gimme commit-dc5bde879c04e7cc6ac6403c41291dd45a7c83be
 git https://github.com/nektro/iguanaTLS commit-c0a8d949c5cf8c72e2dfdaddee9fb7854b1c217e
+git https://github.com/nektro/koino-fork commit-85695b315d20e713c8bb475a87283a9679fa0673
+git https://github.com/nektro/pcre-8.45 commit-cd69966b46e641ba0847fdbab8b0d7c6d94d9594
 git https://github.com/nektro/zfetch commit-c2883dd57698f223b2cfdccfc7ea357a12e5f741
 git https://github.com/nektro/zig-UrlValues commit-44a9c4852a1ddc73c5312fbe142dff5025135c18
 git https://github.com/nektro/zig-ansi commit-b0d7878680fff57fd5ed9e7e4d2694acc0b81255

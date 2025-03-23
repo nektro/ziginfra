@@ -38,3 +38,4 @@ root_dependencies:
   - src: git https://github.com/nektro/zig-webidl
   - src: git https://github.com/nektro/zig-icu
   - src: git https://github.com/nektro/zig-expect
+  - src: git https://github.com/nektro/koino-fork

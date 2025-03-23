@@ -46,5 +46,6 @@
         .@"zig-xml" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-xml" },
         .@"zig-yaml" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-yaml" },
         .@"zig-zorm" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-zorm" },
+        .@"koino-fork" = .{ .path = ".zigmod/deps/git/github.com/nektro/koino-fork" },
     },
 }
