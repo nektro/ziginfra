@@ -3,7 +3,7 @@ const std = @import("std");
 const O = struct {
     std.Build.ResolvedTarget,
     std.builtin.OptimizeMode,
-    bool,
+    bool, // disable_llvm
 };
 
 pub fn build(b: *std.Build) void {
