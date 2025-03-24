@@ -11,6 +11,7 @@ MIT:
 - git https://github.com/nektro/zig-ansi
 - git https://github.com/nektro/zig-bencode
 - git https://github.com/nektro/zig-color
+- git https://github.com/nektro/zig-cookies
 - git https://github.com/nektro/zig-detect-license
 - git https://github.com/nektro/zig-expect
 - git https://github.com/nektro/zig-extras

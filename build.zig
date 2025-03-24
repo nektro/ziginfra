@@ -25,6 +25,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-ansi", opts));
     test_step.dependOn(dependOn(b, "zig-bencode", opts));
     test_step.dependOn(dependOn(b, "zig-color", opts));
+    test_step.dependOn(dependOn(b, "zig-cookies", opts));
     test_step.dependOn(dependOn(b, "zig-detect-license", opts));
     test_step.dependOn(dependOn(b, "zig-expect", opts));
     test_step.dependOn(dependOn(b, "zig-extras", opts));
