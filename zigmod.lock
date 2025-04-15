@@ -13,7 +13,7 @@ git https://github.com/nektro/zig-color commit-b1df1f0d3561f2ff59ccddacd9b5c8efd
 git https://github.com/nektro/zig-cookies commit-144dc2a53444ce410c7519aa9bcbd51245eecc00
 git https://github.com/nektro/zig-detect-license commit-3049b32e72045d8cefd64b8a7f9b0b8f9e76d80a
 git https://github.com/nektro/zig-expect commit-9197d1f9b18040768e7bc453b7b376b8e2c9d91b
-git https://github.com/nektro/zig-extras commit-27852b0c55eef47017a93a190fc04e4479012ba8
+git https://github.com/nektro/zig-extras commit-b46cbe7b2f31d0f4ea5e720f2d3657437b22e6c7
 git https://github.com/nektro/zig-flag commit-e514a3e79fb783333f3856d4cf1b56c822b97df0
 git https://github.com/nektro/zig-git commit-2f89b319bf72f797e1d488e2e0e0f16f4ffcfef8
 git https://github.com/nektro/zig-iana-tlds commit-c2f757010ec4cf1552f85c5dd2e222bd43ddee5a
