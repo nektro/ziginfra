@@ -40,3 +40,4 @@ root_dependencies:
   - src: git https://github.com/nektro/zig-expect
   - src: git https://github.com/nektro/koino-fork
   - src: git https://github.com/nektro/zig-cookies
+  - src: git https://github.com/nektro/zig-errno
