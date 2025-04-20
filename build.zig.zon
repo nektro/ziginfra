@@ -15,6 +15,7 @@
         .@"zig-ansi" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-ansi" },
         .@"zig-bencode" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-bencode" },
         .@"zig-color" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-color" },
+        .@"zig-cookies" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-cookies" },
         .@"zig-detect-license" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-detect-license" },
         .@"zig-errno" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-errno" },
         .@"zig-expect" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-expect" },
