@@ -37,6 +37,7 @@
         .@"zig-oauth2" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-oauth2" },
         .@"zig-pek" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-pek" },
         .@"zig-signal" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-signal" },
+        .@"zig-sys-linux" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-sys-linux" },
         .@"zig-time" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-time" },
         .@"zig-tracer" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-tracer" },
         .@"zig-ulid" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-ulid" },

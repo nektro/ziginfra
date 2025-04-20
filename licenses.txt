@@ -28,6 +28,7 @@ MIT:
 - git https://github.com/nektro/zig-mime
 - git https://github.com/nektro/zig-oauth2
 - git https://github.com/nektro/zig-signal
+- git https://github.com/nektro/zig-sys-linux
 - git https://github.com/nektro/zig-time
 - git https://github.com/nektro/zig-tracer
 - git https://github.com/nektro/zig-ulid
