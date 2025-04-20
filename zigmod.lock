@@ -10,9 +10,9 @@ git https://github.com/nektro/zig-UrlValues commit-a3fe97a659d7a67dc598fec433eb5
 git https://github.com/nektro/zig-ansi commit-b0d7878680fff57fd5ed9e7e4d2694acc0b81255
 git https://github.com/nektro/zig-bencode commit-75cc5d76753444b76db3b720db512f677ac555ce
 git https://github.com/nektro/zig-color commit-b1df1f0d3561f2ff59ccddacd9b5c8efdaec2cf2
-git https://github.com/nektro/zig-cookies commit-144dc2a53444ce410c7519aa9bcbd51245eecc00
+git https://github.com/nektro/zig-cookies commit-81ac56dd5578da03c2bacefcae615e263f12cdb2
 git https://github.com/nektro/zig-detect-license commit-3049b32e72045d8cefd64b8a7f9b0b8f9e76d80a
-git https://github.com/nektro/zig-errno commit-6eb01207d41c935987ba8e69ee98708a081e878f
+git https://github.com/nektro/zig-errno commit-6e5b0d85ef749e5a1be7ed24891b189d4f4221c2
 git https://github.com/nektro/zig-expect commit-9197d1f9b18040768e7bc453b7b376b8e2c9d91b
 git https://github.com/nektro/zig-extras commit-100510135aa7be25b8b465ac32450678de009103
 git https://github.com/nektro/zig-flag commit-e514a3e79fb783333f3856d4cf1b56c822b97df0
@@ -30,9 +30,9 @@ git https://github.com/nektro/zig-licenses commit-d683ae4d499c2a1f7f8c9cdd7304cd
 git https://github.com/nektro/zig-licenses-text commit-f1830fbbd78a31d54d8469a0243cb904e7295e10
 git https://github.com/nektro/zig-mime commit-0dc5934a08f8cc3dc26ead4864356fb58e0aa060
 git https://github.com/nektro/zig-oauth2 commit-61a9657e9712a311917648eb2adef2d0d7d7f1ff
-git https://github.com/nektro/zig-pek commit-9d95a343c2f9c61b67c7e6f36f0e3907052f140f
+git https://github.com/nektro/zig-pek commit-50157b547862127f73d54bdd6e9eb1e471ab07ca
 git https://github.com/nektro/zig-signal commit-3677e2dc38240bf79890fe569a445a9175dff479
-git https://github.com/nektro/zig-sys-linux commit-62e135f2d06d249255ad8c387ca9f8fcae1a2e7c
+git https://github.com/nektro/zig-sys-linux commit-d3ed3bf1084d8d0e5029a6204188b798b9ff58bf
 git https://github.com/nektro/zig-time commit-b9a93152af3ba73e5f681f73a67f0d676e2ad433
 git https://github.com/nektro/zig-tracer commit-662774eedca41771f9ebd1ab45cfdc8e4319d4b4
 git https://github.com/nektro/zig-ulid commit-3ee066e53a6b57446c448abf5f90fef76c873a1d
