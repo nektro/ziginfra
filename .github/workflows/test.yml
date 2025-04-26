@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  test-linux:
+    runs-on: ubuntu-latest
+
+    steps:
+      # debug info about this machine
+      - run: uname -a
+      - run: free
+      - run: env
+      - run: mount
+      - run: lscpu
+      - run: lsmem
+      - run: lsblk
+      - run: lspci
+      - run: lsipc
+      - run: whoami
+
+      # Get the code
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: git fetch --all --tags
+      - run: top -b -n 1 | head -n5
+
+      - uses: mlugg/setup-zig@v1
+        with:
+          mirror: "http://mirrors.nektro.net/s3cgi"
+          version: "0.13.0"
+
+      - run: zig version
+      - run: zig cc --version
+      - run: zig env
+
+      - uses: nektro/actions-setup-zigmod@v1
+        with:
+          version: r95
+      - run: zigmod version
+
+      - run: zigmod ci
+      - run: ./doall.sh zigmod ci
+
+      - run: zig build test
