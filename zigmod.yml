@@ -43,3 +43,4 @@ root_dependencies:
   - src: git https://github.com/nektro/zig-errno
   - src: git https://github.com/nektro/zig-sys-linux
   - src: git https://github.com/nektro/zig-libc
+  - src: git https://github.com/nektro/zig-sys-libc

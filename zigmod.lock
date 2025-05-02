@@ -33,6 +33,7 @@ git https://github.com/nektro/zig-mime commit-0dc5934a08f8cc3dc26ead4864356fb58e
 git https://github.com/nektro/zig-oauth2 commit-61a9657e9712a311917648eb2adef2d0d7d7f1ff
 git https://github.com/nektro/zig-pek commit-50157b547862127f73d54bdd6e9eb1e471ab07ca
 git https://github.com/nektro/zig-signal commit-3677e2dc38240bf79890fe569a445a9175dff479
+git https://github.com/nektro/zig-sys-libc commit-ebe228c7a3d85a382a2f73d14a33f5d0d2c7e344
 git https://github.com/nektro/zig-sys-linux commit-d3ed3bf1084d8d0e5029a6204188b798b9ff58bf
 git https://github.com/nektro/zig-time commit-b9a93152af3ba73e5f681f73a67f0d676e2ad433
 git https://github.com/nektro/zig-tracer commit-662774eedca41771f9ebd1ab45cfdc8e4319d4b4
