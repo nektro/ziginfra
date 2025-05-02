@@ -42,6 +42,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-js", opts));
     test_step.dependOn(dependOn(b, "zig-json", opts));
     test_step.dependOn(dependOn(b, "zig-leven", opts));
+    test_step.dependOn(dependOn(b, "zig-libc", opts));
     test_step.dependOn(dependOn(b, "zig-licenses", opts));
     test_step.dependOn(dependOn(b, "zig-licenses-text", opts));
     test_step.dependOn(dependOn(b, "zig-mime", opts));

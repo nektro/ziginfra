@@ -32,6 +32,7 @@
         .@"zig-js" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-js" },
         .@"zig-json" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-json" },
         .@"zig-leven" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-leven" },
+        .@"zig-libc" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-libc" },
         .@"zig-licenses" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-licenses" },
         .@"zig-licenses-text" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-licenses-text" },
         .@"zig-mime" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-mime" },

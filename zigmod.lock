@@ -26,6 +26,7 @@ git https://github.com/nektro/zig-iso-639-languages commit-e9a43b546c42901b66745
 git https://github.com/nektro/zig-json commit-03b5392e53513a0f90aa5c10219c7caee6383997
 git https://github.com/nektro/zig-js commit-d5942eb0c0637e6d26f282fd486c4353efc976c8
 git https://github.com/nektro/zig-leven commit-1c0e475b056ccc6a343187702ee4f3dc415e07cb
+git https://github.com/nektro/zig-libc commit-d6ab67d329c9017d54ee0258eacc71aa2f99d601
 git https://github.com/nektro/zig-licenses commit-d683ae4d499c2a1f7f8c9cdd7304cd5a3c766e76
 git https://github.com/nektro/zig-licenses-text commit-f1830fbbd78a31d54d8469a0243cb904e7295e10
 git https://github.com/nektro/zig-mime commit-0dc5934a08f8cc3dc26ead4864356fb58e0aa060
