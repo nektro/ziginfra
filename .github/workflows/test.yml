@@ -45,6 +45,7 @@ jobs:
       # TODO: make this work with 'zigmod ci'
       - run: zigmod fetch
       - run: ./doall.sh zigmod fetch --no-update
+      - run: ./doall.sh cat deps.zig
 
       - run: zig build test
       - run: zig build test -fqemu -Dtarget=x86_64-linux
