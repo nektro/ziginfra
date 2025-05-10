@@ -42,7 +42,8 @@ jobs:
           version: r95
       - run: zigmod version
 
-      - run: zigmod ci
-      - run: ./doall.sh zigmod ci
+      # TODO: make this work with 'zigmod ci'
+      - run: zigmod fetch
+      - run: ./doall.sh zigmod fetch --no-update
 
       - run: zig build test
