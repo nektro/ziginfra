@@ -47,3 +47,4 @@ jobs:
       - run: ./doall.sh zigmod fetch --no-update
 
       - run: zig build test
+      - run: zig build test -fqemu -Dtarget=x86_64-linux
