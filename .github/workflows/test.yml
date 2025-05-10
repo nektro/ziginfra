@@ -48,3 +48,4 @@ jobs:
 
       - run: zig build test
       - run: zig build test -fqemu -Dtarget=x86_64-linux
+      - run: zig build test -fqemu -Dtarget=aarch64-linux
