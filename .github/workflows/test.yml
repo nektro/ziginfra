@@ -20,7 +20,7 @@ jobs:
       - run: lspci
       - run: lsipc
       - run: whoami
-      - run: apt install qemu
+      - run: sudo apt install qemu
 
       # Get the code
       - uses: actions/checkout@v2
