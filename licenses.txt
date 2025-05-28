@@ -19,6 +19,7 @@ MIT:
 - git https://github.com/nektro/zig-flag
 - git https://github.com/nektro/zig-fmt-valueliteral
 - git https://github.com/nektro/zig-git
+- git https://github.com/nektro/zig-htmlentities
 - git https://github.com/nektro/zig-iana-tlds
 - git https://github.com/nektro/zig-icu
 - git https://github.com/nektro/zig-inquirer
@@ -39,8 +40,8 @@ MIT:
 - git https://github.com/nektro/zig-unicode-ucd
 - git https://github.com/nektro/zig-yaml
 - git https://github.com/truemedian/hzzp
-- git https://github.com/kivikakk/htmlentities.zig
 - git https://github.com/vrischmann/zig-sqlite
+- git https://github.com/kivikakk/htmlentities.zig
 - git https://github.com/yaml/libyaml
 
 BSD-3-Clause:
@@ -54,15 +55,16 @@ MPL-2.0:
 - git https://github.com/nektro/zig-pek
 - git https://github.com/nektro/zig-webidl
 - git https://github.com/nektro/zig-xml
+- git https://github.com/nektro/zig-zorm
 
 0BSD:
 = https://spdx.org/licenses/0BSD
 - git https://github.com/nektro/zig-iso-3166-countrys
 - git https://github.com/nektro/zig-iso-639-languages
 
-AGPL-3.0:
-= https://spdx.org/licenses/AGPL-3.0
-- git https://github.com/nektro/zig-zorm
+blessing:
+= https://spdx.org/licenses/blessing
+- http https://sqlite.org/2025/sqlite-amalgamation-3480000.zip
 
 Unspecified:
 - system_lib c

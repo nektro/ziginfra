@@ -11,7 +11,7 @@ pub fn build(b: *std.Build) void {
     const mode = b.option(std.builtin.Mode, "mode", "") orelse .Debug;
     const disable_llvm = b.option(bool, "disable_llvm", "use the non-llvm zig codegen") orelse false;
 
-    b.reference_trace = 128;
+    b.reference_trace = 512;
 
     const opts: O = .{
         target,
@@ -20,8 +20,11 @@ pub fn build(b: *std.Build) void {
     };
 
     const test_step = b.step("test", "Run unit tests");
+    test_step.dependOn(dependOn(b, "zigmod", opts));
     test_step.dependOn(dependOn(b, "arqv-ini", opts));
     test_step.dependOn(dependOn(b, "gimme", opts));
+    test_step.dependOn(dependOn(b, "iguanaTLS", opts));
+    test_step.dependOn(dependOn(b, "zfetch", opts));
     test_step.dependOn(dependOn(b, "zig-ansi", opts));
     test_step.dependOn(dependOn(b, "zig-bencode", opts));
     test_step.dependOn(dependOn(b, "zig-color", opts));
@@ -33,6 +36,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-flag", opts));
     test_step.dependOn(dependOn(b, "zig-fmt-valueliteral", opts));
     test_step.dependOn(dependOn(b, "zig-git", opts));
+    test_step.dependOn(dependOn(b, "zig-htmlentities", opts));
     test_step.dependOn(dependOn(b, "zig-iana-tlds", opts));
     test_step.dependOn(dependOn(b, "zig-icu", opts));
     test_step.dependOn(dependOn(b, "zig-inquirer", opts));

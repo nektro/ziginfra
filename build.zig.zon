@@ -1,5 +1,6 @@
 .{
-    .name = "ziginfra",
+    .fingerprint = 0x77500cc1bceb6396,
+    .name = .ziginfra,
     .version = "0.0.0",
     .minimum_zig_version = "0.13.0",
     .paths = .{
@@ -10,8 +11,11 @@
         "README.md",
     },
     .dependencies = .{
+        .zigmod = .{ .path = ".zigmod/deps/git/github.com/nektro/zigmod" },
         .@"arqv-ini" = .{ .path = ".zigmod/deps/git/github.com/nektro/arqv-ini" },
         .gimme = .{ .path = ".zigmod/deps/git/github.com/nektro/gimme" },
+        .iguanaTLS = .{ .path = ".zigmod/deps/git/github.com/nektro/iguanaTLS" },
+        .zfetch = .{ .path = ".zigmod/deps/git/github.com/nektro/zfetch" },
         .@"zig-ansi" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-ansi" },
         .@"zig-bencode" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-bencode" },
         .@"zig-color" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-color" },
@@ -23,6 +27,7 @@
         .@"zig-flag" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-flag" },
         .@"zig-fmt-valueliteral" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-fmt-valueliteral" },
         .@"zig-git" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-git" },
+        .@"zig-htmlentities" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-htmlentities" },
         .@"zig-iana-tlds" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-iana-tlds" },
         .@"zig-icu" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-icu" },
         .@"zig-inquirer" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-inquirer" },
