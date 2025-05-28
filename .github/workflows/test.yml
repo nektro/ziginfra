@@ -40,7 +40,7 @@ jobs:
 
       - uses: nektro/actions-setup-zigmod@v1
         with:
-          version: r95
+          version: r98
       - run: zigmod version
 
       # TODO: make this work with 'zigmod ci'
