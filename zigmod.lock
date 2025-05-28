@@ -1,7 +1,7 @@
 2
 git https://github.com/kivikakk/libpcre.zig commit-00b62bc8bea7da75ba61f56555ea6cbaf0dc4e26
 git https://github.com/nektro/arqv-ini commit-f1a72055884bd5bc0ffb93ba706c9212139d61b9
-git https://github.com/nektro/gimme commit-380fc3161f5811dd382b5075cde057f2410dc0c4
+git https://github.com/nektro/gimme commit-2822a49b5bc6b64cf47a2e4b941f9bbef120c5db
 git https://github.com/nektro/iguanaTLS commit-b0e810ba8508681935ea7a5af857cc197dcdd279
 git https://github.com/nektro/koino-fork commit-9df4e7002b0a7ddedda6884791e04124b7654cd9
 git https://github.com/nektro/pcre-8.45 commit-3934406b50b8c2a4e2fc7362ed8026224ac90828
@@ -14,7 +14,7 @@ git https://github.com/nektro/zig-cookies commit-23ed9b857ae78b1fcc021657b74fb20
 git https://github.com/nektro/zig-detect-license commit-9b85f69e9adc28ec70a217c07b86046e331d3485
 git https://github.com/nektro/zig-errno commit-4c86c6bd5dcf4ed1477b0957684a80ec9d093b67
 git https://github.com/nektro/zig-expect commit-74dc4c9acaa6f20d5819a6b68cb179f98d78f229
-git https://github.com/nektro/zig-extras commit-5c4543acadb6c24c05d68f79e4c9d2093457a629
+git https://github.com/nektro/zig-extras commit-e7ae48cfacb0510ba610e72a9bb064e675e943ea
 git https://github.com/nektro/zig-flag commit-e5c0a7088040fd61b764a4339e93a6ce67574700
 git https://github.com/nektro/zig-fmt-valueliteral commit-b58fa1b8bd6fe4d64590f955a4b47f4da8ee2690
 git https://github.com/nektro/zig-git commit-b206fa9978ef2cc06bab4d307c7ed07f1f3b88af
@@ -45,7 +45,7 @@ git https://github.com/nektro/zig-unicode-ucd commit-a0e281110f54a160df7b0de4904
 git https://github.com/nektro/zig-webidl commit-aa76ab61c527e81a96db32f25d7b0a053e876106
 git https://github.com/nektro/zig-xml commit-fc07c763a98fa7961b65b0a2b95a2d0fa061fafb
 git https://github.com/nektro/zig-yaml commit-10e8df67c534e186d851ed48e8895374d9a454e9
-git https://github.com/nektro/zig-zorm commit-e30f063ca37685bc01430d5556c74c80a78ab7fd
+git https://github.com/nektro/zig-zorm commit-ecbf8aa73c48dca4ba045574db3739d69e9fb775
 git https://github.com/truemedian/hzzp commit-ab212bd208f0eb54d85861679677c5e3dc9bb543
 git https://github.com/vrischmann/zig-sqlite commit-dfc34c306b954a3f9a55f460ac4ef2b8a0c2eb75
 git https://github.com/kivikakk/htmlentities.zig commit-bd5d569a245c7c8e83812eadcb5761b7ba76ef04
