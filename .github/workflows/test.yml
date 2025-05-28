@@ -53,3 +53,4 @@ jobs:
       - run: zig build test -fqemu -Dtarget=aarch64-linux
       - run: zig build test -fqemu -Dtarget=riscv64-linux
       - run: zig build test -fqemu -Dtarget=powerpc64le-linux
+      - run: zig build test -fqemu -Dtarget=mips64el-linux
