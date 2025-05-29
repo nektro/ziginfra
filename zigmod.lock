@@ -46,8 +46,10 @@ git https://github.com/nektro/zig-webidl commit-aa76ab61c527e81a96db32f25d7b0a05
 git https://github.com/nektro/zig-xml commit-fc07c763a98fa7961b65b0a2b95a2d0fa061fafb
 git https://github.com/nektro/zig-yaml commit-10e8df67c534e186d851ed48e8895374d9a454e9
 git https://github.com/nektro/zig-zorm commit-ecbf8aa73c48dca4ba045574db3739d69e9fb775
+git https://github.com/nektro/zigmod commit-25f39752b3c11fd447eeedbd674db158d5932e72
 git https://github.com/truemedian/hzzp commit-ab212bd208f0eb54d85861679677c5e3dc9bb543
 git https://github.com/vrischmann/zig-sqlite commit-dfc34c306b954a3f9a55f460ac4ef2b8a0c2eb75
+git https://github.com/ziglibs/known-folders commit-aa24df42183ad415d10bc0a33e6238c437fc0f59
 git https://github.com/kivikakk/htmlentities.zig commit-bd5d569a245c7c8e83812eadcb5761b7ba76ef04
 git https://github.com/yaml/libyaml tag-0.2.5
 http https://sqlite.org/2025/sqlite-amalgamation-3480000.zip sha256-d9a15a42db7c78f88fe3d3c5945acce2f4bfe9e4da9f685cd19f6ea1d40aa884
