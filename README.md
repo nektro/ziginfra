@@ -47,7 +47,6 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-color
 - https://github.com/nektro/zig-cookies
 - https://github.com/nektro/zig-detect-license
-- https://github.com/nektro/zig-errno
 - https://github.com/nektro/zig-expect
 - https://github.com/nektro/zig-extras
 - https://github.com/nektro/zig-flag
@@ -65,14 +64,14 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-jwt
 - https://github.com/nektro/zig-json
 - https://github.com/nektro/zig-leven
-- https://github.com/nektro/zig-libc
 - https://github.com/nektro/zig-licenses
 - https://github.com/nektro/zig-licenses-text
 - https://github.com/nektro/zig-mime
+- https://github.com/nektro/zig-nfs
+- https://github.com/nektro/zig-nio
 - https://github.com/nektro/zig-oauth2
 - https://github.com/nektro/zig-pek
 - https://github.com/nektro/zig-signal
-- https://github.com/nektro/zig-sys-libc
 - https://github.com/nektro/zig-sys-linux
 - https://github.com/nektro/zig-time
 - https://github.com/nektro/zig-tracer

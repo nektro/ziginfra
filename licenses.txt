@@ -13,7 +13,6 @@ MIT:
 - git https://github.com/nektro/zig-color
 - git https://github.com/nektro/zig-cookies
 - git https://github.com/nektro/zig-detect-license
-- git https://github.com/nektro/zig-errno
 - git https://github.com/nektro/zig-expect
 - git https://github.com/nektro/zig-extras
 - git https://github.com/nektro/zig-flag
@@ -25,13 +24,11 @@ MIT:
 - git https://github.com/nektro/zig-inquirer
 - git https://github.com/nektro/zig-json
 - git https://github.com/nektro/zig-leven
-- git https://github.com/nektro/zig-libc
 - git https://github.com/nektro/zig-licenses
 - git https://github.com/nektro/zig-licenses-text
 - git https://github.com/nektro/zig-mime
 - git https://github.com/nektro/zig-oauth2
 - git https://github.com/nektro/zig-signal
-- git https://github.com/nektro/zig-sys-libc
 - git https://github.com/nektro/zig-sys-linux
 - git https://github.com/nektro/zig-time
 - git https://github.com/nektro/zig-tracer
@@ -54,6 +51,8 @@ MPL-2.0:
 = https://spdx.org/licenses/MPL-2.0
 - git https://github.com/nektro/zig-intrusive-parser
 - git https://github.com/nektro/zig-js
+- git https://github.com/nektro/zig-nfs
+- git https://github.com/nektro/zig-nio
 - git https://github.com/nektro/zig-pek
 - git https://github.com/nektro/zig-webidl
 - git https://github.com/nektro/zig-xml

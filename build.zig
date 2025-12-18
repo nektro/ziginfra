@@ -30,7 +30,6 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-color", opts));
     // test_step.dependOn(dependOn(b, "zig-cookies", opts)); //
     test_step.dependOn(dependOn(b, "zig-detect-license", opts));
-    test_step.dependOn(dependOn(b, "zig-errno", opts));
     test_step.dependOn(dependOn(b, "zig-expect", opts));
     test_step.dependOn(dependOn(b, "zig-extras", opts));
     test_step.dependOn(dependOn(b, "zig-flag", opts));
@@ -46,14 +45,14 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-js", opts));
     test_step.dependOn(dependOn(b, "zig-json", opts));
     test_step.dependOn(dependOn(b, "zig-leven", opts));
-    test_step.dependOn(dependOn(b, "zig-libc", opts));
     test_step.dependOn(dependOn(b, "zig-licenses", opts));
     test_step.dependOn(dependOn(b, "zig-licenses-text", opts));
     test_step.dependOn(dependOn(b, "zig-mime", opts));
+    test_step.dependOn(dependOn(b, "zig-nfs", opts));
+    test_step.dependOn(dependOn(b, "zig-nio", opts));
     test_step.dependOn(dependOn(b, "zig-oauth2", opts));
     test_step.dependOn(dependOn(b, "zig-pek", opts));
     test_step.dependOn(dependOn(b, "zig-signal", opts));
-    test_step.dependOn(dependOn(b, "zig-sys-libc", opts));
     test_step.dependOn(dependOn(b, "zig-sys-linux", opts));
     test_step.dependOn(dependOn(b, "zig-time", opts));
     test_step.dependOn(dependOn(b, "zig-tracer", opts));

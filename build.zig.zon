@@ -41,6 +41,8 @@
         .@"zig-licenses" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-licenses" },
         .@"zig-licenses-text" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-licenses-text" },
         .@"zig-mime" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-mime" },
+        .@"zig-nfs" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-nfs" },
+        .@"zig-nio" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-nio" },
         .@"zig-oauth2" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-oauth2" },
         .@"zig-pek" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-pek" },
         .@"zig-signal" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-signal" },
