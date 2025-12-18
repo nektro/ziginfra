@@ -30,12 +30,12 @@ git https://github.com/nektro/zig-leven commit-618eddde4ffbc6d34100e4bc6aa654d41
 git https://github.com/nektro/zig-licenses commit-4bc9da927d02f85aa818cac1d6485e1c0c39808b
 git https://github.com/nektro/zig-licenses-text commit-cb5c4517b09b1d54e523b0df19d8c01879b0d51d
 git https://github.com/nektro/zig-mime commit-7217459b7069c61cbbc2d5d0e0d27b04d0b56045
-git https://github.com/nektro/zig-nfs commit-9a4f8159be199f9a94d96a9cb41f4a88c592b46f
+git https://github.com/nektro/zig-nfs commit-343b29cf587842ffa5874abd405bdb97b6c8649d
 git https://github.com/nektro/zig-nio commit-1c2264abec746c915800db0ed3e5b4d278ca606f
 git https://github.com/nektro/zig-oauth2 commit-49f33e433fd16fd4371a251590e39def192fff1e
 git https://github.com/nektro/zig-pek commit-706924ca682479a77cc64b1a1fa0f666365721ec
 git https://github.com/nektro/zig-signal commit-ec98f756caec3b467fe10018f99f9a56ccc8ef67
-git https://github.com/nektro/zig-sys-linux commit-b909bdac4648a27c7a4cde2cb991d90221a36949
+git https://github.com/nektro/zig-sys-linux commit-eed99fee94ae00310d01e1235196aec43ca1f939
 git https://github.com/nektro/zig-time commit-2beae6fbe1baf4e563767dbe37c51acdae74894e
 git https://github.com/nektro/zig-tracer commit-c2ffce3206974adc0924992585359d28c1974d14
 git https://github.com/nektro/zig-ulid commit-9b047a3e3df0e86d47c088d376c7b34ef4801a84
