@@ -67,6 +67,7 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-licenses
 - https://github.com/nektro/zig-licenses-text
 - https://github.com/nektro/zig-mime
+- https://github.com/nektro/zig-net
 - https://github.com/nektro/zig-nfs
 - https://github.com/nektro/zig-nio
 - https://github.com/nektro/zig-oauth2
