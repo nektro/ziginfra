@@ -52,6 +52,7 @@
         .@"zig-time" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-time" },
         .@"zig-tracer" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-tracer" },
         .@"zig-ulid" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-ulid" },
+        .@"zig-unicode-idna" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-idna" },
         .@"zig-unicode-uca" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-uca" },
         .@"zig-unicode-ucd" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-ucd" },
         .@"zig-UrlValues" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-UrlValues" },

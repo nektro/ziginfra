@@ -77,6 +77,7 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-time
 - https://github.com/nektro/zig-tracer
 - https://github.com/nektro/zig-ulid
+- https://github.com/nektro/zig-unicode-idna
 - https://github.com/nektro/zig-unicode-uca
 - https://github.com/nektro/zig-unicode-ucd
 - https://github.com/nektro/zig-UrlValues

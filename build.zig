@@ -58,6 +58,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-time", opts));
     test_step.dependOn(dependOn(b, "zig-tracer", opts));
     test_step.dependOn(dependOn(b, "zig-ulid", opts));
+    test_step.dependOn(dependOn(b, "zig-unicode-idna", opts));
     test_step.dependOn(dependOn(b, "zig-unicode-uca", opts));
     test_step.dependOn(dependOn(b, "zig-unicode-ucd", opts));
     test_step.dependOn(dependOn(b, "zig-UrlValues", opts));

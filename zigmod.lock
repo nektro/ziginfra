@@ -40,8 +40,9 @@ git https://github.com/nektro/zig-sys-linux commit-588abaa4a6ebad4603da60c1d270c
 git https://github.com/nektro/zig-time commit-2beae6fbe1baf4e563767dbe37c51acdae74894e
 git https://github.com/nektro/zig-tracer commit-c2ffce3206974adc0924992585359d28c1974d14
 git https://github.com/nektro/zig-ulid commit-9b047a3e3df0e86d47c088d376c7b34ef4801a84
-git https://github.com/nektro/zig-unicode-uca commit-7ff19451bb306f0eb531edbfb4f8ab55962ac568
-git https://github.com/nektro/zig-unicode-ucd commit-c5781c41c29fab2503be89178519d6396d4066e7
+git https://github.com/nektro/zig-unicode-idna commit-f7a805254e559c21b3fc11f78b46221c0a4b42ab
+git https://github.com/nektro/zig-unicode-uca commit-5e905f18b0b1083893406b26ceb50e9888007079
+git https://github.com/nektro/zig-unicode-ucd commit-35065b703a0912fd39d56f91f7e4f8c886b9ab63
 git https://github.com/nektro/zig-webidl commit-1994e940c1487ea14b24150a0e570559eac83861
 git https://github.com/nektro/zig-xml commit-0af371bc7e6770342bdd73e5a6af5896a6a72d66
 git https://github.com/nektro/zig-yaml commit-54fd85b458b7cf1b81ebe6503d61ca82804d1db6
