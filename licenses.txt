@@ -52,6 +52,7 @@ MPL-2.0:
 - git https://github.com/nektro/zig-intrusive-parser
 - git https://github.com/nektro/zig-js
 - git https://github.com/nektro/zig-net
+- git https://github.com/nektro/zig-net-http
 - git https://github.com/nektro/zig-nfs
 - git https://github.com/nektro/zig-nio
 - git https://github.com/nektro/zig-pek
