@@ -82,6 +82,7 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-unicode-ucd
 - https://github.com/nektro/zig-UrlValues
 - https://github.com/nektro/zig-webidl
+- https://github.com/nektro/zig-whatwg-url
 - https://github.com/nektro/zig-xml
 - https://github.com/nektro/zig-yaml
 - https://github.com/nektro/zig-zorm

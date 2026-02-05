@@ -44,6 +44,7 @@ git https://github.com/nektro/zig-unicode-idna commit-f7a805254e559c21b3fc11f78b
 git https://github.com/nektro/zig-unicode-uca commit-5e905f18b0b1083893406b26ceb50e9888007079
 git https://github.com/nektro/zig-unicode-ucd commit-35065b703a0912fd39d56f91f7e4f8c886b9ab63
 git https://github.com/nektro/zig-webidl commit-1994e940c1487ea14b24150a0e570559eac83861
+git https://github.com/nektro/zig-whatwg-url commit-331d8297a6c092ba133030c5a63265dab535e996
 git https://github.com/nektro/zig-xml commit-0af371bc7e6770342bdd73e5a6af5896a6a72d66
 git https://github.com/nektro/zig-yaml commit-54fd85b458b7cf1b81ebe6503d61ca82804d1db6
 git https://github.com/nektro/zig-zorm commit-43788aee132326a7e3c02ef862c63368e5670fc4

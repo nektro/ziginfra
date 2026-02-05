@@ -57,6 +57,7 @@
         .@"zig-unicode-ucd" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-ucd" },
         .@"zig-UrlValues" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-UrlValues" },
         .@"zig-webidl" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-webidl" },
+        .@"zig-whatwg-url" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-whatwg-url" },
         .@"zig-xml" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-xml" },
         .@"zig-yaml" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-yaml" },
         .@"zig-zorm" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-zorm" },
