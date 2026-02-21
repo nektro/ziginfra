@@ -74,6 +74,7 @@ $ zigmod-commit-changes
 - https://github.com/nektro/zig-signal
 - https://github.com/nektro/zig-sys-linux
 - https://github.com/nektro/zig-time
+- https://github.com/nektro/zig-totp
 - https://github.com/nektro/zig-tracer
 - https://github.com/nektro/zig-ulid
 - https://github.com/nektro/zig-unicode-idna

@@ -57,6 +57,7 @@ pub fn build(b: *std.Build) void {
     test_step.dependOn(dependOn(b, "zig-signal", opts));
     test_step.dependOn(dependOn(b, "zig-sys-linux", opts));
     test_step.dependOn(dependOn(b, "zig-time", opts));
+    test_step.dependOn(dependOn(b, "zig-totp", opts));
     test_step.dependOn(dependOn(b, "zig-tracer", opts));
     test_step.dependOn(dependOn(b, "zig-ulid", opts));
     test_step.dependOn(dependOn(b, "zig-unicode-idna", opts));

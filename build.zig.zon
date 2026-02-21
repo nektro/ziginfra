@@ -51,6 +51,7 @@
         .@"zig-sys-libc" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-sys-libc" },
         .@"zig-sys-linux" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-sys-linux" },
         .@"zig-time" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-time" },
+        .@"zig-totp" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-totp" },
         .@"zig-tracer" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-tracer" },
         .@"zig-ulid" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-ulid" },
         .@"zig-unicode-idna" = .{ .path = ".zigmod/deps/git/github.com/nektro/zig-unicode-idna" },
